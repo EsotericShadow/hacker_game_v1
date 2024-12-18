@@ -89,7 +89,7 @@ Hackergame is open source, and contributions are welcome from everyone! Whether 
 ## **Installation**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hackergame.git
+   git clone [https://github.com/EsotericShadow/hacker_game_v1]
    cd hacker_game_v1
    ```
 
@@ -124,7 +124,7 @@ Hackergame is open source, and contributions are welcome from everyone! Whether 
 
 ## **Contributors**
 - **Project Creator**: Shadow Fox
-- **Contributors**: Rook God Forks, John Smith, Jane Doe, Alice Lee, Mark Jones
+- **Contributors**: Rook God Forks
 
 If you'd like to become a contributor, just submit a pull request or reach out on GitHub.
 
